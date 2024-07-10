@@ -1,4 +1,4 @@
-Hi 👋 My name is Andrey Zhdanov
+Hi 👋 My name is Andrey!
 ===============================
 
 React Front-End Developer
