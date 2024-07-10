@@ -4,7 +4,7 @@ Hi 👋 My name is Andrey Zhdanov
 React Front-End Developer
 -------------------
 
-I have been studying to become a Front-end Developer for over a year now, gaining firsthand experience in the field. I am proficient in HTML, CSS, JavaScrhttps://github.com/ZhdanDrew/ZhdanDrew/blob/main/README.mdipt, TypeScript, and React framework. Designing user-responsive web apps makes me happy, allowing my users to interact easily without any barriers. I have everything at my fingertips, except for a few moments before catching up with everything that is happening around me, as an expert should do from time to time. I always try to improve my skills by contributing to as many open-source projects as possible and making them work as well as they can to satisfy all user needs, with the help of other developers.
+I have been studying to become a Front-end Developer for over a year now, gaining firsthand experience in the field. I am proficient in HTML, CSS, JavaScript, TypeScript, and React framework. Designing user-responsive web apps makes me happy, allowing my users to interact easily without any barriers. I have everything at my fingertips, except for a few moments before catching up with everything that is happening around me, as an expert should do from time to time. I always try to improve my skills by contributing to as many open-source projects as possible and making them work as well as they can to satisfy all user needs, with the help of other developers.
 
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [zhdanov.andrey21@gmail.com](mailto:zhdanov.andrey21@gmail.com)
